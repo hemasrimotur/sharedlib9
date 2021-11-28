@@ -1,0 +1,3 @@
+def call (Bujji){
+ echo "hey ${bujji} , welcome to sharedlib "
+ }
